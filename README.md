@@ -4,7 +4,7 @@ git demo repository
 
 ## basic git command
 
-- git init (initialize an empty git repository)
+- git init  (initialize an empty git repository)
 - git status (show the working tree status)
 - git add (add file contents to the index)
 - git rm (Remove files from the working tree and from the index)
@@ -20,3 +20,7 @@ git demo repository
   * -p (git object content)
 - git ls-files
   * -s (Show staged contents' mode bits, object name and stage number in the output)
+
+  Thanks
+  
+  Test
